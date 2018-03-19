@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Constanta</string>
+    <string name="title_activity_general">General Presentation</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_mamaia">Mamaia</string>
+
+    <string name="name_ancient_constanta">Tomis</string>
+    <string name="name_casino">Casino</string>
+    <string name="name_port">Port</string>
+    <string name="name_histria">Histria</string>
+    <string name="lighthouse">Lighthouse Genovez</string>
+    <string name="description_ancient">It was founded after the colonization of the Black Sea basin in BC.</string>
+    <string name="description_lighthouse"> Was one of the Genoese trade markets.</string>
+    <string name="description_histria">The Greek city, was the oldest city on the current territory of Romania.</string>
+    <string name="description_port">It is the largest port in the Black Sea basin and is ranked 4th in Europe.</string>
+    <string name="description_cazino">The casino is one of the emblems of the buildings in Constanta.</string>
+
+    <string name="name_fratelli">Fratelli</string>
+    <string name="name_phoenicia">Phoenicia Holiday </string>
+    <string name="name_vega">Vega</string>
+    <string name="name_beach">Beach</string>
+    <string name="name_aqua">Aqua Magic</string>
+    <string name="description_fratelli">With a 400 spots beach, a restaurant and club for weekend parties!</string>
+    <string name="description_phoenicia">Every evening, artistic programs with karaoke and live music. </string>
+    <string name="description_vega">Located on the cliff in the northern resort.</string>
+    <string name="description_beach">The shimmering waters and the immaculate sand of Mamaia </string>
+    <string name="description_aqua">Everyone laughs , dance and sing!</string>
+
+    <string name="name_shells">The shellfish festival</string>
+    <string name="name_neversea">Neversea</string>
+    <string name="name_dakini">Dakini festival</string>
+    <string name="name_sunwaves">Sunwaves Festival</string>
+    <string name="name_navy">Navy Day</string>
+    <string name="description_navy">15 August , Cliff Constanta</string>
+    <string name="description_sunwaves">17-21 August,AZA Beach in Mamaia Sat </string>
+    <string name="description_shells">17-20 May,Ovidius Fair</string>
+    <string name="description_nerversea">5-8 July , Modern Beach</string>
+    <string name="description_dakini">June 27- 1 July , Tuzla Beach</string>
+
+    <string name="general_name_constanta">A colorful city!</string>
+    <string name="general_name_mamaia">Adventure, fun and clubs!</string>
+    <string name="general_name_shopping">Shopping</string>
+    <string name="general_description_constanta">It is the right place for everyone!</string>
+    <string name="general_description_mamaia">Terraces Romanian, Oriental, Latin, Vegan</string>
+    <string name="general_description_casino">The emblem of Constanta</string>
+    <string name="general_description_shopping">For all tastes and generations</string>
+</resources>
